@@ -1,0 +1,6 @@
+Jupyter
+networkx
+snap-stanford
+matplotlib
+pandas
+scipy
